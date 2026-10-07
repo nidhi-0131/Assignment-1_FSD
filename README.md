@@ -16,8 +16,6 @@ Program ended.
 timer
 ```
 
-The exact output timing may vary slightly depending on the system.
-
 ## Explanation
 
 The program uses `setTimeout()` with a delay of 1 second. Normally, we might expect the timer callback to run after 1 second.
